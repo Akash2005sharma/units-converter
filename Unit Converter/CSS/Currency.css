@@ -1,3 +1,7 @@
 .cur{
-    background-color: grey;
+    background-color: rgb(236, 9, 9);
+}
+body{
+    color: red;
+    background-color: yellow;
 }
